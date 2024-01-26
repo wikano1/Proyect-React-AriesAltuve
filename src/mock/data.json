@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Alhaja de diamantes",
+        "price": 250000,
+        "image": "cat1.jpg",
+        "category":"catalogo",
+        "stock": "1"
+    },
+    {
+        "id": 2,
+        "name": "Cadena con dije de Oro 18k",
+        "price": 200000,
+        "image": "cat2.jpg",
+        "category":"catalogo",
+        "stock": "1"
+    },
+    {
+        "id": 3,
+        "name": "Anillo para compromiso de Oro blanco y zircon",
+        "price": 130000,
+        "image": "cat3.jpg",
+        "category":"catalogo",
+        "stock": "1"
+    },
+    {
+        "id": 4,
+        "name": "Alianzas de Oro 18k, con franja de oro blanco",
+        "price": 105000,
+        "image": "cat4.jpg",
+        "category":"catalogo",
+        "stock": "1"
+    },
+    {
+        "id": 5,
+        "name": "Pulsera de Oro 18k.",
+        "price": 200000,
+        "image": "cat5.jpeg",
+        "category":"catalogo",
+        "stock": "1"
+    },
+    {
+        "id": 6,
+        "name": "Set de aritos de Oro 18k",
+        "price": 30000,
+        "image": "cat6.jpeg",
+        "category":"catalogo",
+        "stock": "1"
+    },
+    {
+        "id": 7,
+        "name": "Cadena de bordillo de Oro 18k",
+        "price": 550000,
+        "image": "cat7.jpg",
+        "category":"catalogo",
+        "stock": "1"
+    },
+    {
+        "id": 8,
+        "name": "Pulsera trenzada de Oro 18k",
+        "price": 30000,
+        "image": "cat8.jpg",
+        "category":"catalogo",
+        "stock": "1"
+    },
+    {
+        "id": 9,
+        "name": "Aros de plata 925 gris y dorada.",
+        "price": 15000,
+        "image": "des1.jpg",
+        "category":"descuento",
+        "stock": "1"
+    },
+    {
+        "id": 10,
+        "name": "Aros de plata 925 con piedras de zircon.",
+        "price": 20000,
+        "image": "des2.jpg",
+        "category":"descuento",
+        "stock": "1"
+    },
+    {
+        "id": 11,
+        "name": "Anillo de plata 925 modelo: ALCE.",
+        "price": 12000,
+        "image": "des3.jpg",
+        "category":"descuento",
+        "stock": "1"
+    },  
+    {
+        "id": 12,
+        "name": "Cadena de Oro 18k con dijes LOVE.",
+        "price": 180000,
+        "image": "des4.jpg",
+        "category":"descuento",
+        "stock": "1"
+    },
+    {
+        "id": 13,
+        "name": "Alianzas de plata.",
+        "price": 30000,
+        "image": "des5.jpg",
+        "category":"descuento",
+        "stock": "1"
+    },
+    {
+        "id": 14,
+        "name": "Set de cadena y anillo de Oro 18k con piedra de esmeralda.",
+        "price": 215000,
+        "image": "des6.jpg",
+        "category":"descuento",
+        "stock": "1"
+    },
+    {
+        "id": 15,
+        "name": "Set de anillos de plata 925 con piedras semi preciosas de zircon.",
+        "price": 80000,
+        "image": "des7.jpg",
+        "category":"descuento",
+        "stock": "1"
+    },
+    {
+        "id": 16,
+        "name":  "Cadena de plata 925 y dije con brillantes. Modelo marinero",
+        "price": 40000,
+        "image": "des8.jpg",
+        "category":"descuento",
+        "stock": "1"
+    }
+]    
